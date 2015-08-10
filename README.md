@@ -1,2 +1,2 @@
 # showAdsJs
-an simple advertise js src implementation
+A simple advertise js src implementation
